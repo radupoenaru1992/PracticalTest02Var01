@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+D:\PDSD\Colocviu2\PracticalTest02Var01\.metadata\.plugins\org.eclipse.jdt.core
+458903232.index
+1055043418.index
+841660137.index
